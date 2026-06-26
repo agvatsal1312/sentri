@@ -1,6 +1,5 @@
 # Sentri
 
-> **Author:** [Vatsal Agarwal](https://github.com/agvatsal1312) · [github.com/agvatsal1312/sentri](https://github.com/agvatsal1312/sentri)
 
 A production-grade API gateway for Large Language Models with semantic caching, a multi-layer guardrails pipeline, API key authentication, circuit breaking, and per-key rate limiting. Built to reduce LLM API costs, enforce safety policies, and protect your infrastructure before requests ever reach the model.
 
